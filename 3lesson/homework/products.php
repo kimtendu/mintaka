@@ -2,7 +2,7 @@
 $products = array (
     0 =>
         array (
-            0 => 'D',
+            0 => 'ID',
             1 => 'Type',
             2 => 'SKU',
             3 => 'Name',
