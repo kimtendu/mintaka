@@ -69,7 +69,7 @@
       "price": "",
       "images": "https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/vneck-tee-2.jpg, https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/vnech-tee-green-1.jpg, https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/vnech-tee-blue-1.jpg"
     },
-    "sku": {
+    "2": {
       "id": "45",
       "type": "variable",
       "sku": "woo-hoodie",
@@ -97,7 +97,7 @@
       "price": "45",
       "images": "https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/hoodie-with-logo-2.jpg"
     },
-    "published": {
+    "4": {
       "id": "47",
       "type": "simple",
       "sku": "woo-tshirt",
